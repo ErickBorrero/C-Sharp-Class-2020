@@ -1,0 +1,13 @@
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.exe
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.deps.json
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.runtimeconfig.json
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.runtimeconfig.dev.json
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.dll
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\bin\Debug\netcoreapp3.1\BasicIO.pdb
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.csprojAssemblyReference.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.AssemblyInfoInputs.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.AssemblyInfo.cs
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.csproj.CoreCompileInputs.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.dll
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.pdb
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\BasicIO\obj\Debug\netcoreapp3.1\BasicIO.genruntimeconfig.cache
