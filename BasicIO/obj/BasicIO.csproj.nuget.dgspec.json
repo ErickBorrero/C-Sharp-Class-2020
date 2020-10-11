@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\BasicIO\\BasicIO.csproj": {}
+    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-sharp-class-2020\\basicio\\BasicIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\BasicIO\\BasicIO.csproj": {
+    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-sharp-class-2020\\basicio\\BasicIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\BasicIO\\BasicIO.csproj",
+        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-sharp-class-2020\\basicio\\BasicIO.csproj",
         "projectName": "BasicIO",
-        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\BasicIO\\BasicIO.csproj",
+        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-sharp-class-2020\\basicio\\BasicIO.csproj",
         "packagesPath": "C:\\Users\\nuryn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\BasicIO\\obj\\",
+        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-sharp-class-2020\\basicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuryn\\AppData\\Roaming\\NuGet\\NuGet.Config",

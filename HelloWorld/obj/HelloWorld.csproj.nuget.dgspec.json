@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\nuryn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
