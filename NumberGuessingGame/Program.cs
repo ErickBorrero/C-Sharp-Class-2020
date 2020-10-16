@@ -9,6 +9,7 @@ namespace numberguessinggame
             var random = new System.Random();
             int guessingNumber = random.Next(1, 50);
             int guesses = 10;
+            int[] previousGuesses = new int[10];
             string playAgain;
 
             System.Console.WriteLine("Guess a number from 1-50:");
@@ -68,6 +69,10 @@ namespace numberguessinggame
                         break;
                     }
                 }
+
+            }
+            static void CheckGuess(number)
+            {
 
             }
            
