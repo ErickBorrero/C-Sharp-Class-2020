@@ -71,11 +71,7 @@ namespace numberguessinggame
                 }
 
             }
-            static void CheckGuess(number)
-            {
-
-            }
-           
+   
         }
     }
 }
