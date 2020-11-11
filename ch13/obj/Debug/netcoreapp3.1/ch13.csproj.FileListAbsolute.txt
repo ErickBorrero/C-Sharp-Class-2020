@@ -1,0 +1,13 @@
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\obj\Debug\netcoreapp3.1\ch13.csprojAssemblyReference.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\obj\Debug\netcoreapp3.1\ch13.AssemblyInfoInputs.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\obj\Debug\netcoreapp3.1\ch13.AssemblyInfo.cs
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\obj\Debug\netcoreapp3.1\ch13.csproj.CoreCompileInputs.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\bin\Debug\netcoreapp3.1\ch13.exe
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\bin\Debug\netcoreapp3.1\ch13.deps.json
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\bin\Debug\netcoreapp3.1\ch13.runtimeconfig.json
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\bin\Debug\netcoreapp3.1\ch13.runtimeconfig.dev.json
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\bin\Debug\netcoreapp3.1\ch13.dll
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\bin\Debug\netcoreapp3.1\ch13.pdb
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\obj\Debug\netcoreapp3.1\ch13.dll
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\obj\Debug\netcoreapp3.1\ch13.pdb
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch13\obj\Debug\netcoreapp3.1\ch13.genruntimeconfig.cache
