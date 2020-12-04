@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj": {}
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj": {
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj",
+        "projectUniqueName": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj",
         "projectName": "AutoLot.DataReader",
-        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj",
+        "projectPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj",
         "packagesPath": "C:\\Users\\nuryn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\obj\\",
+        "outputPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuryn\\AppData\\Roaming\\NuGet\\NuGet.Config",

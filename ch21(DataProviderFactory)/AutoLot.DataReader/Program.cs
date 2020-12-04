@@ -24,7 +24,6 @@ namespace AutoLot.DataReader
                 };
                 connection.ConnectionString = connectionStringBuilder.ConnectionString;
                 connection.Open();
-                ShowConnectionStatus(connection);
                 // Create a SQL command object.
                 //string sql = "Select * From Inventory";
                 string sql = "Select * From Inventory;Select * from Customers;";

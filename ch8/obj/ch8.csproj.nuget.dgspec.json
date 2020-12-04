@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj": {}
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj": {
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj",
+        "projectUniqueName": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj",
         "projectName": "ch8",
-        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj",
+        "projectPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\ch8.csproj",
         "packagesPath": "C:\\Users\\nuryn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\obj\\",
+        "outputPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuryn\\AppData\\Roaming\\NuGet\\NuGet.Config",

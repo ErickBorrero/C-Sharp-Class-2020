@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj": {}
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj": {
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj",
+        "projectUniqueName": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj",
         "projectName": "ch21(DataProviderFactory)",
-        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj",
+        "projectPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\ch21(DataProviderFactory).csproj",
         "packagesPath": "C:\\Users\\nuryn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\obj\\",
+        "outputPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuryn\\AppData\\Roaming\\NuGet\\NuGet.Config",

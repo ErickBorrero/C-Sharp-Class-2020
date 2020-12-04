@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.Odbc;
 using System.Data.OleDb;
 using System.Runtime.InteropServices.ComTypes;
-using Microsoft.Data.SqlClient;
+// using Microsoft.Data.SqlClient;
 
 namespace MyConnectionFactory
 {
@@ -45,12 +45,12 @@ namespace MyConnectionFactory
         static IDbConnection GetConnection(DataProviderEnum dataProvider) =>
             dataProvider switch
             {
-                DataProviderEnum.SqlServer => new SqlConnection(),
+                // DataProviderEnum.SqlServer => new SqlConnection(),
 #if PC
                 //Not support on MacOS
-                DataProviderEnum.OleDb => new OleDbConnection(),
+                // DataProviderEnum.OleDb => new OleDbConnection(),
 #endif
-                DataProviderEnum.Odbc => new OdbcConnection(),
+                // DataProviderEnum.Odbc => new OdbcConnection(),
                 _ => null,
             };
     }

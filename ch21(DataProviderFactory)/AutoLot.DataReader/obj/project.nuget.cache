@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CCAdVrzZnOtiRFO4yAehAs1UH04Btmo02nhQz0C0LRdOCoG1tpdp7CUEk9SN15fg+3HcUmVv8VcWbXg1PpraZQ==",
+  "dgSpecHash": "G6qOOa7VhFkMuR3lKDkdN+JNPSFJjUyJhbRVwwdGkmZx42E0+ExEhUsTlhmb+zC6zerHTNaabfKNrC+vu+qXaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj",
+  "projectFilePath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DataReader\\AutoLot.DataReader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nuryn\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\nuryn\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.2\\microsoft.data.sqlclient.1.1.2.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\Myconnectionfactory\\Myconnectionfactory.csproj",
+      "projectUniqueName": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\MyCOnnectionFactory\\Myconnectionfactory.csproj",
       "projectName": "Myconnectionfactory",
-      "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\Myconnectionfactory\\Myconnectionfactory.csproj",
+      "projectPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\MyCOnnectionFactory\\Myconnectionfactory.csproj",
       "packagesPath": "C:\\Users\\nuryn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\Myconnectionfactory\\obj\\",
+      "outputPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\MyCOnnectionFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuryn\\AppData\\Roaming\\NuGet\\NuGet.Config",

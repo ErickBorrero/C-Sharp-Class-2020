@@ -65,14 +65,14 @@ namespace AutoLot.DataReader
             }
             Console.ReadLine();
         }
-        static void ShowConnectionStatus(SqlConnection connection)
-        {
-            // Show various stats about current connection object.
-            Console.WriteLine("***** Info about your connection *****");
-            Console.WriteLine($@"Database location: {connection.DataSource}");
-            Console.WriteLine($"Database name: {connection.Database}");
-            Console.WriteLine($@"Timeout: {connection.ConnectionTimeout}");
-            Console.WriteLine($"Connection state: {connection.State}\n");
-        }
+        // static void ShowConnectionStatus(SqlConnection connection)
+        // {
+        //     // Show various stats about current connection object.
+        //     Console.WriteLine("***** Info about your connection *****");
+        //     Console.WriteLine($@"Database location: {connection.DataSource}");
+        //     Console.WriteLine($"Database name: {connection.Database}");
+        //     Console.WriteLine($@"Timeout: {connection.ConnectionTimeout}");
+        //     Console.WriteLine($"Connection state: {connection.State}\n");
+        // }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\autolot.dal\\AutoLot.DAL\\AutoLot.DAL.csproj": {}
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DAL\\AutoLot.DAL\\AutoLot.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\autolot.dal\\AutoLot.DAL\\AutoLot.DAL.csproj": {
+    "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DAL\\AutoLot.DAL\\AutoLot.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\autolot.dal\\AutoLot.DAL\\AutoLot.DAL.csproj",
+        "projectUniqueName": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DAL\\AutoLot.DAL\\AutoLot.DAL.csproj",
         "projectName": "AutoLot.DAL",
-        "projectPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\autolot.dal\\AutoLot.DAL\\AutoLot.DAL.csproj",
+        "projectPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DAL\\AutoLot.DAL\\AutoLot.DAL.csproj",
         "packagesPath": "C:\\Users\\nuryn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\autolot.dal\\AutoLot.DAL\\obj\\",
+        "outputPath": "c:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch21(DataProviderFactory)\\AutoLot.DAL\\AutoLot.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
