@@ -12,10 +12,7 @@ namespace AutoLot.Dal.Entities
 {
     public partial class Customer : BaseEntity
     {
-        [StringLength(50)]
-        public string FirstName { get; set; }
-        [StringLength(50)]
-        public string LastName { get; set; }
+        public Person PersonalInformation {get; set;} = new Person();
 
         [InverseProperty(nameof(CreditRisk.CustomerNavigation))]
         public virtual IEnumerable<CreditRisk> CreditRisks { get; set; } = new List<CreditRisk>();

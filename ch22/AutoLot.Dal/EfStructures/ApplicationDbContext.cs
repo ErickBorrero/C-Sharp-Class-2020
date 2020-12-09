@@ -35,6 +35,12 @@ namespace AutoLot.Dal.EfStructures
                     .WithMany(p => p.CreditRisks)
                     .HasForeignKey(d => d.CustomerId)
                     .HasConstraintName("FK_CreditRisks_Customers");
+                entity.Ownsone(o => o.PersonalInformation, 
+                pd => 
+                {
+                    pd.Property(p => p.FirstName).HasColumnName(nameof(Person.FirstName));
+                    pd.Property(p => p.LastName).HasColumnName(nameof(Person.LastName)
+                });
             });
 
             modelBuilder.Entity<Order>(entity =>
@@ -50,6 +56,16 @@ namespace AutoLot.Dal.EfStructures
                     .HasForeignKey(d => d.CustomerId)
                     .OnDelete(DeleteBehavior.Cascade)
                     .HasConstraintName("FK_Orders_Customers");
+            });
+
+            modelBuilder.Entity<Customer>(entity =>
+            {
+                entity.Ownsone(o => o.PersonalInformation, 
+                pd => 
+                {
+                    pd.Property(p => p.FirstName).HasColumnName(nameof(Person.FirstName));
+                    pd.Property(p => p.LastName).HasColumnName(nameof(Person.LastName)
+                });
             });
 
             OnModelCreatingPartial(modelBuilder);
