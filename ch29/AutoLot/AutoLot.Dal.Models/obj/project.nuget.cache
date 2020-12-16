@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mwo89JPnvFjDyYJ+npGpQkX6IGyuM0zppnX/PkPB5ExWMemCJle86gCFs4XNekoo0CNc4KcAu26yfOPLUeEYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nuryn\\Desktop\\PycharmProjects\\CSharp2020\\C-Sharp-Class-2020\\ch29\\AutoLot\\AutoLot.Dal.Models\\AutoLot.Dal.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nuryn\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.4\\microsoft.entityframeworkcore.abstractions.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

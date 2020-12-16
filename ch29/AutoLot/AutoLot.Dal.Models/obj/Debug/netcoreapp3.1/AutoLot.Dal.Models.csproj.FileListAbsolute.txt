@@ -1,0 +1,9 @@
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\bin\Debug\netcoreapp3.1\AutoLot.Dal.Models.deps.json
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\bin\Debug\netcoreapp3.1\AutoLot.Dal.Models.dll
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\bin\Debug\netcoreapp3.1\AutoLot.Dal.Models.pdb
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\obj\Debug\netcoreapp3.1\AutoLot.Dal.Models.csprojAssemblyReference.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\obj\Debug\netcoreapp3.1\AutoLot.Dal.Models.AssemblyInfoInputs.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\obj\Debug\netcoreapp3.1\AutoLot.Dal.Models.AssemblyInfo.cs
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\obj\Debug\netcoreapp3.1\AutoLot.Dal.Models.csproj.CoreCompileInputs.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\obj\Debug\netcoreapp3.1\AutoLot.Dal.Models.dll
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch22\AutoLot.Dal\AutoLot.Dal.Models\obj\Debug\netcoreapp3.1\AutoLot.Dal.Models.pdb
