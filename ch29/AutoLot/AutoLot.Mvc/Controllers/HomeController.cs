@@ -37,8 +37,15 @@ namespace AutoLot.Mvc.Controllers
         [HttpGet]
         public async Task<IActionResult> RazorSyntax()
         {
+            //var car = await serviceWrapper.GetOneAsync<Car>(1);
             var car = new Car { Id = 1, PetName = "Herbie" };
             return View(car);
+        }
+
+        [HttpGet]
+        public IActionResult TestDisplayTemplates()
+        {
+            return View(DateTime.Now);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

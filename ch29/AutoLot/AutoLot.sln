@@ -3,9 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLot.Api", "AutoLot.Api\AutoLot.Api.csproj", "{785011EE-07C8-41B5-8BB6-8D914F04E355}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLot.Api", "AutoLot.Api\AutoLot.Api.csproj", "{785011EE-07C8-41B5-8BB6-8D914F04E355}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLot.Mvc", "AutoLot.Mvc\AutoLot.Mvc.csproj", "{15F41410-812B-4EEB-9A24-8D5BA87F10B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLot.Mvc", "AutoLot.Mvc\AutoLot.Mvc.csproj", "{15F41410-812B-4EEB-9A24-8D5BA87F10B6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{37373D07-6B49-46FD-AE11-FD05E826DD92} = {37373D07-6B49-46FD-AE11-FD05E826DD92}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLot.Dal", "AutoLot.Dal\AutoLot.Dal.csproj", "{37373D07-6B49-46FD-AE11-FD05E826DD92}"
 EndProject
