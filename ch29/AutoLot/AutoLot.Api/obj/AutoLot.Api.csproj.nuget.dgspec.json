@@ -132,7 +132,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -196,11 +196,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[5.0.1, )"
             }
           },
           "imports": [

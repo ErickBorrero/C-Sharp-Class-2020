@@ -72,3 +72,4 @@ C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch29\AutoLo
 C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch29\AutoLot\AutoLot.Api\obj\Debug\netcoreapp3.1\AutoLot.Api.dll
 C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch29\AutoLot\AutoLot.Api\obj\Debug\netcoreapp3.1\AutoLot.Api.pdb
 C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch29\AutoLot\AutoLot.Api\obj\Debug\netcoreapp3.1\AutoLot.Api.genruntimeconfig.cache
+C:\Users\nuryn\Desktop\PycharmProjects\CSharp2020\C-Sharp-Class-2020\ch29\AutoLot\AutoLot.Api\bin\Debug\netcoreapp3.1\AutoLot.Api.xml

@@ -11,6 +11,11 @@ namespace AutoLot.Api.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+
+        /// <summary>
+        /// This is an example Get method returning Json
+        /// </summary>
+        /// <returns>List of strings</returns>
         [HttpGet]
         public IActionResult Get()
         {

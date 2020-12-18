@@ -21,5 +21,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Web_LibraryManager_Build Condition=" '$(PkgMicrosoft_Web_LibraryManager_Build)' == '' ">C:\Users\nuryn\.nuget\packages\microsoft.web.librarymanager.build\2.1.113</PkgMicrosoft_Web_LibraryManager_Build>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\nuryn\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4</PkgMicrosoft_CodeAnalysis_Analyzers>
   </PropertyGroup>
 </Project>

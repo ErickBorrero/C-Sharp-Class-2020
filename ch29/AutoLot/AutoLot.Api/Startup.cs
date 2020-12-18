@@ -19,6 +19,7 @@ using AutoLot.Dal.EfStructures;
 using AutoLot.Dal.Initialization;
 using AutoLot.Dal.Repos;
 using AutoLot.Dal.Repos.Interfaces;
+using AutoLot.Api.Filters;
 
 namespace AutoLot.Api
 {
@@ -36,7 +37,7 @@ namespace AutoLot.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers()
+            services.AddControllers(config => config.Filters.Add(new CustomExceptionFilter(_env)))
                 .ConfigureApiBehaviorOptions(options => 
                 {
                     options.SuppressInferBindingSourcesForParameters = true;
@@ -77,6 +78,16 @@ namespace AutoLot.Api
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 c.IncludeXmlComments(xmlPath);
             });
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll", builder =>
+                {
+                    builder
+                    .AllowAnyHeader()
+                    .AllowAnyMethod()
+                    .AllowAnyOrigin();
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -95,6 +106,8 @@ namespace AutoLot.Api
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors("AllowAll");
 
             app.UseAuthorization();
 

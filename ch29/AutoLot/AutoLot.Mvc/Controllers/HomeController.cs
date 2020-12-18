@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using AutoLot.Mvc.Models;
+using AutoLot.Dal.Models.Entities;
 
 namespace AutoLot.Mvc.Controllers
 {
@@ -31,6 +32,13 @@ namespace AutoLot.Mvc.Controllers
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> RazorSyntax()
+        {
+            var car = new Car { Id = 1, PetName = "Herbie" };
+            return View(car);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

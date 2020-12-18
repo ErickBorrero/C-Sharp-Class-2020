@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using AutoLot.Dal.Models.Entities.Base;
+using System.Text.Json.Serialization;
 
 namespace AutoLot.Dal.Models.Entities
 {
@@ -20,6 +21,7 @@ namespace AutoLot.Dal.Models.Entities
         [StringLength(50),Required]
         public string PetName { get; set; }
 
+        [JsonIgnore]
         [InverseProperty(nameof(Order.CarNavigation))]
         public virtual IEnumerable<Order> Orders { get; set; } = new List<Order>();
     }

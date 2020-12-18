@@ -1566,7 +1566,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "AutoLot.Dal.Models": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1"
         },
         "compile": {
           "bin/placeholder/AutoLot.Dal.dll": {}
@@ -1579,7 +1579,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "3.1.4"
+          "Microsoft.EntityFrameworkCore.Abstractions": "5.0.1"
         },
         "compile": {
           "bin/placeholder/AutoLot.Dal.Models.dll": {}
